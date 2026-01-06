@@ -1,0 +1,49 @@
+# LuxeHaven E-commerce Store - Product Information
+
+## About LuxeHaven
+LuxeHaven is your exclusive destination for luxury shopping. We offer premium products including watches, jewelry, fashion, and accessories from top brands worldwide.
+
+## Product Categories
+
+### Luxury Watches
+- Premium timepieces from renowned brands
+- Swiss-made watches
+- Smart luxury watches
+- Vintage and classic collections
+- Price range: $500 - $50,000+
+
+### Fine Jewelry
+- Diamond jewelry
+- Gold and platinum pieces
+- Custom jewelry design
+- Engagement and wedding rings
+- Price range: $200 - $100,000+
+
+### Fashion
+- Designer clothing
+- Premium fabrics
+- Seasonal collections
+- Custom tailoring available
+- Price range: $100 - $10,000+
+
+### Luxury Accessories
+- Designer handbags
+- Premium leather goods
+- Silk scarves and ties
+- Luxury sunglasses
+- Price range: $50 - $5,000+
+
+## Shopping Features
+- Free shipping on orders over $500
+- 30-day return policy
+- Authentic guarantee on all products
+- Personal shopping assistance
+- Gift wrapping services
+- Loyalty rewards program
+
+## Customer Service
+- 24/7 customer support
+- Live chat assistance
+- Phone support: 1-800-LUXE-HAVEN
+- Email: support@luxehaven.com
+- Personal styling consultations available
